@@ -61,14 +61,14 @@ You can use .is-floating with size and color modifiers
 
 Example
 ---
-![Example usage](/example/index.png)
+![Example usage](https://raw.githubusercontent.com/alakise/bulma-floating-button/master/example/index.png?token=AEICCE55L64XQKBNHPW4PZS6XRPD6)
 
 Integration to Bulma
 ---
 - Clone the [bulma repo](https://github.com/jgthms/bulma)
 - Under the `sass` folder, create a new folder called `extensions`
 - In this new folder, create a new file `bulma-floating-button.sass`
-- Copy the code form the `bulma-floating-button repo`'s [dist/css/bulma-floating-button.sas](https://github.com/alakise/bulma-floating-button/blob/master/dist/css/bulma-floating-button.sass) file into your new file
+- Copy the code form the `bulma-floating-button repo`'s [dist/css/bulma-floating-button.sass](https://github.com/alakise/bulma-floating-button/blob/master/dist/css/bulma-floating-button.sass) file into your new file
 - In the same folder create a new file `_all.sass` (this is not required, but will help when you add more extensions)
 - In this file add this code:
 ```
