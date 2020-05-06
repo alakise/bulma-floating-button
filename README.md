@@ -62,7 +62,7 @@ You can use .is-floating with size and color modifiers
 
 Example
 ---
-![Example usage](/example/index.png))
+![Example usage](/example/index.png)
 
 Integration to Bulma
 ---
