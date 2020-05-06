@@ -21,7 +21,6 @@ import 'bulma-floating-button/dist/css/bulma-floating-button.sass'
 
 ### Usage
 You can use .is-floating with size and color modifiers
----
 ```html
 
     <a href="#" class="button is-floating is-primary">
