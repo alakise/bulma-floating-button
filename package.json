@@ -1,0 +1,28 @@
+{
+  "name": "bulma-floating-button",
+  "version": "1.0.3",
+  "description": "Floating buttons for Bulma",
+  "main": "dist/css/bulma-floating-button.sass",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alakise/bulma-floating-button.git"
+  },
+  "keywords": [
+    "Bulma",
+    "bulma",
+    "bulma.io",
+    "extensions"
+  ],
+  "author": "Alakise <mustafasafadogan@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alakise/bulma-floating-button/issues"
+  },
+  "homepage": "https://github.com/alakise/bulma-floating-button#readme",
+  "files": [
+    "dist/**",
+    "src/**",
+    "LICENSE",
+    "README.md"
+  ]
+}
