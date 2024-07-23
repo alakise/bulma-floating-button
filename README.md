@@ -1,7 +1,8 @@
 # bulma-floating-button
 Bulma's extension to create floating buttons
 
-[![npm](https://img.shields.io/npm/v/bulma-floating-button)](https://www.npmjs.com/package/bulma-floating-button)
+[![npm](https://img.shields.io/npm/v/bulma-floating-button)](https://www.npmjs.com/package/bulma-floating-button) ![NPM Downloads](https://img.shields.io/npm/d18m/bulma-floating-button)
+
 
 ## Quick install
 ### NPM
